@@ -6,7 +6,7 @@ Este projeto consiste numa aplicação de Blog funcional, empacotada com **Docke
 
 ## 🔗 Link do Projeto
 O projeto pode ser acedido através do seguinte endereço:
-👉 [**Visualizar Blog**](blog-apps-env--qxl4ias.grayhill-990de313.eastus.azurecontainerapps.io)
+👉 [**Visualizar Blog**](https://blog-apps-env--qxl4ias.grayhill-990de313.eastus.azurecontainerapps.io)
 
 ## 📋 Sobre o Projeto
 
